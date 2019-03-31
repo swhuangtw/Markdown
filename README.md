@@ -28,6 +28,7 @@ __這也是粗體__
 _兩個結合一起 **粗體** 斜體+粗體_
 
 ### 清單
+
   * 無序清單
 
 Markdown script
@@ -44,7 +45,9 @@ Markdown result
   * 項目2a
   * 項目2b
 
+
 ### 清單
+
   * 有序清單
 
 Markdown script
@@ -61,7 +64,10 @@ Markdown result
     1. 項目2-1
     2. 項目2-2
 
+
+
 ###圖片
+
 
 Markdown script
 
@@ -73,7 +79,9 @@ Markdown result
 ![GitHub Logo](/images/logo.png)
 ![Alt Text，連結失效時顯示](https://github.com/swhuangtw/Markdown/blob/master/M.png?raw=true)
 
+
 ###連結
+
 
 Markdown script
 
@@ -85,7 +93,9 @@ Markdown result
 http://github.com - automatic!
 [GitHub](http://github.com)
 
+
 ###引言
+
 
 Markdown script
 
@@ -97,33 +107,40 @@ Markdown result
 > 示範文字示範文字示範文字示範文字示範文字示範文字
 > 示範文字示範文字示範文字示範文字示範文字示範文字
 
+
 ###行內標記灰底
+
 
 Markdown script
 
     示範文字示範文字 `示範文字` 示範文字示範文字示範
 
+
 Markdown result
 
 示範文字示範文字 `示範文字` 示範文字示範文字示範
 
+
 ###任務清單
+
 
 Markdown script
 
-    - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+    - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</  del> supported
     - [x] list syntax required (any unordered or ordered list supported)
     - [x] this is a complete item
     - [ ] this is an incomplete item    
 
 Markdown result
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> 支援提及、參考、連結、粗體、
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> 支援提及、參考、連結、粗體、刪除線
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
+
 ###表格
+
 
 Markdown script
 
