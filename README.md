@@ -107,8 +107,6 @@ Markdown result
 
 示範文字示範文字 `示範文字` 示範文字示範文字示範
 
-
-
 ###任務清單
 
 Markdown script
@@ -124,7 +122,6 @@ Markdown result
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
-
 
 ###表格
 
