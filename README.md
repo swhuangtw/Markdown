@@ -71,7 +71,7 @@ Markdown script
 Markdown result
 
 ![GitHub Logo](/images/logo.png)
-![Alt Text，連結失效時顯示](https://github.com/swhuangtw/Markdown/blob/master/test.png?raw=true)
+![Alt Text，連結失效時顯示](https://github.com/swhuangtw/Markdown/blob/master/M.png?raw=true)
 
 ###連結
 
