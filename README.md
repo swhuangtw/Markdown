@@ -65,7 +65,7 @@ Markdown result
     1. 項目2-1
     2. 項目2-2
 
-###圖片
+### 圖片 
 
 Markdown script
 
@@ -77,7 +77,7 @@ Markdown result
 ![GitHub Logo](/images/logo.png)
 ![Alt Text，連結失效時顯示](https://github.com/swhuangtw/Markdown/blob/master/M.png?raw=true)
 
-###連結
+### 連結 
 
 Markdown script
 
@@ -89,7 +89,7 @@ Markdown result
 http://github.com - automatic!
 [GitHub](http://github.com)
 
-###引言
+### 引言 
 
 Markdown script
 
@@ -101,7 +101,7 @@ Markdown result
 > 示範文字示範文字示範文字示範文字示範文字示範文字
 > 示範文字示範文字示範文字示範文字示範文字示範文字
 
-###行內標記灰底
+### 行內標記灰底 
 
 Markdown script
 
@@ -112,7 +112,7 @@ Markdown result
 
 示範文字示範文字 `示範文字` 示範文字示範文字示範
 
-###任務清單
+### 任務清單 
 
 Markdown script
 
@@ -128,7 +128,7 @@ Markdown result
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-###表格
+### 表格 
 
 Markdown script
 
