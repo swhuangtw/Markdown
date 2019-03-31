@@ -2,7 +2,7 @@
 一級標題
 =
 
-void main()
-{
+    void main()
+    {
     printf("Hello, Markdown.");
-}
+    }
