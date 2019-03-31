@@ -3,7 +3,6 @@
 ### 標題
 
 Atx 形式則是在行首插入 1 到 6 個 # ，對應到標題 1 到 6 階，例如
-
 Markdown script
 
     # 這是h1標題 <h1> tag            
@@ -70,8 +69,8 @@ Markdown result
 
 Markdown script
 
-    ![GitHub Logo](/images/M.png)
-    ![[Alt Text，連結失效時顯示](https://github.com/swhuangtw/Markdown/blob/master/M.png?raw=truel)
+    ![GitHub Logo](/images/logo.png)
+    ![Alt Text](https://github.com/swhuangtw/Markdown/blob/master/M.png?raw=true)
 
 Markdown result
 
@@ -124,8 +123,8 @@ Markdown script
 
 Markdown result
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> 支援提及、參考、連結、粗體、刪除線
-- [x] list syntax required (any unordered or ordered list supported)
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> 支援"提及、參考、連結、粗體、刪除線"
+- [x] list syntax required (也支援有序或無序清單)
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
@@ -133,14 +132,14 @@ Markdown result
 
 Markdown script
 
-    First Header | Second Header
+    表頭1 | 表頭2
     ------------ | -------------
     Content from cell 1 | Content from cell 2
     Content in the first column | Content in the second column
 
 Markdown result
 
-First Header | Second Header
+表頭1 | 表頭2
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
