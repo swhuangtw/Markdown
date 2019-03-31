@@ -1,5 +1,7 @@
 # Markdown：Syntax
 
+This is [an example] [id] reference-style link.
+
 ### 標題
 Atx 形式則是在行首插入 1 到 6 個 # ，對應到標題 1 到 6 階，例如
 Markdown script
@@ -85,4 +87,47 @@ Markdown result
 http://github.com - automatic!
 [GitHub](http://github.com)
 
+###引言
 
+Markdown script
+
+    > 示範文字示範文字示範文字示範文字示範文字示範
+    > 示範文字示範文字示範文字示範文字示範文字示範
+
+Markdown result
+
+> 示範文字示範文字示範文字示範文字示範文字示範文字
+> 示範文字示範文字示範文字示範文字示範文字示範文字
+
+###行內標記灰底
+
+Markdown script
+
+    示範文字示範文字 `示範文字` 示範文字示範文字示範
+
+Markdown result
+
+示範文字示範文字 `示範文字` 示範文字示範文字示範
+
+
+
+###任務清單
+
+Markdown script
+
+    - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+    - [x] list syntax required (any unordered or ordered list supported)
+    - [x] this is a complete item
+    - [ ] this is an incomplete item    
+
+Markdown result
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+
+
+[id]: http://example.com/longish/path/to/resource/here
+    "Optional Title Here"
