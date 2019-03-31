@@ -70,8 +70,8 @@ Markdown result
 
 Markdown script
 
-    ![GitHub Logo](/images/logo.png)
-    ![Alt Text](url)
+    ![GitHub Logo](/images/M.png)
+    ![[Alt Text，連結失效時顯示](https://github.com/swhuangtw/Markdown/blob/master/M.png?raw=truel)
 
 Markdown result
 
