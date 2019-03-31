@@ -1,7 +1,5 @@
 # Markdown：Syntax
 
-This is [an example] [id] reference-style link.
-
 ### 標題
 Atx 形式則是在行首插入 1 到 6 個 # ，對應到標題 1 到 6 階，例如
 Markdown script
@@ -122,12 +120,15 @@ Markdown script
 
 Markdown result
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> 支援提及、參考、連結、粗體、
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
 
+###表格
 
-[id]: http://example.com/longish/path/to/resource/here
-    "Optional Title Here"
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
