@@ -1,6 +1,7 @@
 # Markdown：Syntax
 
 ### 標題
+
 Atx 形式則是在行首插入 1 到 6 個 # ，對應到標題 1 到 6 階，例如
 Markdown script
 
@@ -10,7 +11,9 @@ Markdown script
 Markdown result
 # 這是h1標題          
 ## 這是h2標題 
+
 ### 強調
+
 Markdown script
 
     *這是斜體*
@@ -45,9 +48,7 @@ Markdown result
   * 項目2a
   * 項目2b
 
-
 ### 清單
-
   * 有序清單
 
 Markdown script
@@ -64,10 +65,7 @@ Markdown result
     1. 項目2-1
     2. 項目2-2
 
-
-
 ###圖片
-
 
 Markdown script
 
@@ -79,9 +77,7 @@ Markdown result
 ![GitHub Logo](/images/logo.png)
 ![Alt Text，連結失效時顯示](https://github.com/swhuangtw/Markdown/blob/master/M.png?raw=true)
 
-
 ###連結
-
 
 Markdown script
 
@@ -93,9 +89,7 @@ Markdown result
 http://github.com - automatic!
 [GitHub](http://github.com)
 
-
 ###引言
-
 
 Markdown script
 
@@ -107,9 +101,7 @@ Markdown result
 > 示範文字示範文字示範文字示範文字示範文字示範文字
 > 示範文字示範文字示範文字示範文字示範文字示範文字
 
-
 ###行內標記灰底
-
 
 Markdown script
 
@@ -120,9 +112,7 @@ Markdown result
 
 示範文字示範文字 `示範文字` 示範文字示範文字示範
 
-
 ###任務清單
-
 
 Markdown script
 
@@ -138,9 +128,7 @@ Markdown result
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-
 ###表格
-
 
 Markdown script
 
